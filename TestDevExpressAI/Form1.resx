@@ -118,19 +118,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="memoEdit1.EditValue" xml:space="preserve">
-    <value>Hola,
+    <value>L'Autoritat Financera Andorrana (AFA), coneguda com a Institut Nacional Andorrà de Finances (INAF) entre 1989 i 2018, és la institució del Principat d'Andorra encarregada de supervisar i regular el sistema financer d'Andorra. Va ser creat l'any 1989 com a òrgan supervisor i el 2004 se'l va dotar de més autonomia amb l'aprovació de la Llei 14/2003.[1][2]
 
-Ahir l’AFA, finalment, ens va autoritzar la contractació del Lluis Hernandez com a nou Compliance.
-Així dons, ja podem dir que tenim nou Compliance tot i que no començarà el proper dia 02 de gener del 2025, degut a problemes d’agenda amb la seva anterior feina.
-</value>
+En cas d'un acord monetari entre el Govern d'Andorra i la Unió Europea l'AFA s'hauria de convertir en el banc central d'Andorra.[3]
+Estructura
+
+La llei 14/2003 estableix quina és l'estructura de govern, com s'escull, els terminis màxims dels mandats i la remuneració dels diferents càrrecs.[4]
+Consell d'Administració
+El Consell d'Administració de l'AFA està compost per un president, entre tres i cinc consellers i el director general, amb dret a veu, però sense vot. </value>
   </data>
   <metadata name="behaviorManager.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <assembly alias="DevExpress.Data.v24.2" name="DevExpress.Data.v24.2, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-  <data name="Form1.IconOptions.SvgImage" type="DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v24.2" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <assembly alias="DevExpress.Data.v25.1" name="DevExpress.Data.v25.1, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="Form1.IconOptions.SvgImage" type="DevExpress.Utils.Svg.SvgImage, DevExpress.Data.v25.1" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        AAEAAAD/////AQAAAAAAAAAMAgAAAFlEZXZFeHByZXNzLkRhdGEudjI0LjIsIFZlcnNpb249MjQuMi43
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFlEZXZFeHByZXNzLkRhdGEudjI1LjEsIFZlcnNpb249MjUuMS40
         LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YQUBAAAAHURl
         dkV4cHJlc3MuVXRpbHMuU3ZnLlN2Z0ltYWdlAQAAAAREYXRhBwICAAAACQMAAAAPAwAAAK4BAAAC77u/
         PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4NCjxzdmcgeD0iMHB4IiB5PSIwcHgi

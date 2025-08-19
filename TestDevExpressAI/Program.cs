@@ -12,7 +12,7 @@ namespace TestDevExpressAI
         [STAThread]
         static void Main()
         {
-            var key = "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";
+            var key = "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";
 
             DevExpressAIHelper.Initialize(key);            
             ApplicationConfiguration.Initialize();
