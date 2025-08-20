@@ -9,9 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DevExpress.AIIntegration" Version="25.1.4" />
     <PackageReference Include="DevExpress.AIIntegration.WinForms" Version="25.1.4" />
-    <PackageReference Include="DevExpress.Win.Design" Version="25.1.4" />
     <PackageReference Include="Microsoft.Extensions.AI.OpenAI" Version="9.5.0-preview.1.25265.7" />
     <PackageReference Include="OpenAI" Version="2.2.0-beta.4" />
   </ItemGroup>

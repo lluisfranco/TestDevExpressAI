@@ -1,7 +1,5 @@
 using DevExpress.XtraBars.Ribbon;
-using DevExpress.XtraEditors;
 using System.IO;
-//using TestDevExpressAI.Chat;
 
 namespace TestDevExpressAI
 {
@@ -17,11 +15,6 @@ namespace TestDevExpressAI
                 DevExpressAIHelper.Initialize(content);
             }
             behaviorManager.AddAIBehaviors(memoEdit1);
-        }
-
-        private void barButtonItem1_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
-        {
-            //ChatService.ShowChatForm();
         }
     }
 }

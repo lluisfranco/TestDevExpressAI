@@ -100,7 +100,6 @@
             barButtonItem1.Caption = "barButtonItem1";
             barButtonItem1.Id = 1;
             barButtonItem1.Name = "barButtonItem1";
-            barButtonItem1.ItemClick += barButtonItem1_ItemClick;
             // 
             // ribbonPage1
             // 
